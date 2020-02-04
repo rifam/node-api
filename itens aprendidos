@@ -1,0 +1,7 @@
+Até agora aprendi alguns conceitos de nodejs, como gerar uma rota com o express,
+como utilizar nodemon para nao precisar ficar reiniciando o serviço no terminal,
+conceitos docker e instalação de programas. 
+
+Mongoose(ORM, object relational mapping), transforma tabelas em objetos para JS
+Require-dir, usando o  require-dir, ele faz automaticamente o require em todos arquivos do repositorio indicado
+(pode haver uma grande demanda de processamento nessa busca, usar com sabedoria jovem padawan)
